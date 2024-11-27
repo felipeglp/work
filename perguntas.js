@@ -1,6 +1,3 @@
-Claro! Abaixo estão os cartões com as perguntas que você forneceu, organizados conforme as categorias, prontos para serem adicionados usando a função `criaCartao`:
-
-```python
 criaCartao(
     'Química',
     'Qual é o elemento químico com o símbolo "Na"?',
