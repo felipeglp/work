@@ -177,7 +177,4 @@ criaCartao(
     'Em que país as Olimpíadas de 2020 foram realizadas em 2021?',
     'Japão (Tóquio).'
 )
-```
 
-
-)
